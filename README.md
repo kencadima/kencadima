@@ -1,18 +1,18 @@
-### Hi there, I'm Ken 👋
+### gm 👋
 
 <!--
 **kencadima/kencadima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### Some info on me...🙃 
+### About me 
 
-I am advocate for and enthusiast of open-source, web3 technology, open finance, and being a decent person ✌️
+An advocate for open-source, web3, and democratizing finance 👐
 
-I'm not a great coder, but do what I can to understand what's happening under the hood of bleeding edge tech. I currently work as a Technical Sourcer at OpenSea and run a talent consultancy sharing web3 job alpha 🤝  
+Code when I can to understand what's happening under the hood the tech I'm a proponent for. Currently working as a Technical Recruiter at OpenSea and run a talent firm sharing web3 job alpha 🤝  
 
-When I'm not dm'ing you about a job, I'm reading through project documentation looking for the next big thing, attending the latest ETH conference, yield farming, or out on a run with my Australian Shepherd 🐶
+When I'm not dm'ing you about a job, I'm reading through project documentation, attending an ETH conference, yield farming, or out on a run with my Australian Shepherd 🐶
 
-- 🌱 I’m currently trying to better understand the inner workings of Solidity, Cairo, and how smart contracts are optimized without any security tradeoffs
-- 👯 I’m looking to collaborate on anything in the Ethereum ecosystem 
+- 🐇🕳️ Rabbit holes I'm in... EIPs, intents, account abstraction, Solidity 
+- 👯 Open to hearing about collaborating on anything in the Ethereum ecosystem 
 - 💬 Ask me about job alpha at OpenSea
 - 📫 How to reach me: ken.cadima@opensea.io
 
