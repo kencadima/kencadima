@@ -7,7 +7,7 @@
 
 An advocate for open-source, web3, and democratizing finance 👐
 
-Code when I can to understand what's happening under the hood the tech I'm a proponent for. Currently working as a Technical Recruiter at OpenSea and run a talent firm sharing web3 job alpha 🤝  
+Code when I can to understand what's happening under the hood. Currently working as a Technical Recruiter at OpenSea and run a talent firm sharing web3 job alpha 🤝  
 
 When I'm not dm'ing you about a job, I'm reading through project documentation, attending an ETH conference, yield farming, or out on a run with my Australian Shepherd 🐶
 
