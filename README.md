@@ -7,12 +7,12 @@
 
 An advocate for open-source, web3, and democratizing finance 👐
 
-Code when I can to understand what's happening under the hood. Currently working as a Technical Recruiter at OpenSea and run a talent firm sharing web3 job alpha 🤝  
+Currently working as a Technical Recruiter at OpenSea and run a talent firm sharing web3 job alpha 🤝  
 
-When I'm not dm'ing you about a job, I'm reading through project documentation, attending an ETH conference, yield farming, or out on a run with my Australian Shepherd 🐶
+When I'm not dm'ing you about a job, I'm reading through project documentation, attending an ETH conference, agentic coding, or out on a run with my Australian Shepherd 🐶
 
-- 🐇🕳️ Rabbit holes I'm in... EIPs, intents, account abstraction, Solidity 
-- 👯 Open to hearing about collaborating on anything in the Ethereum ecosystem 
+- 🐇🕳️ Rabbit holes I'm in... Openclaw, Skills, x402 
+- 👯 Open to hearing about collaborating on anything in web3 or fintech
 - 💬 Ask me about job alpha at OpenSea
 - 📫 How to reach me: ken.cadima@opensea.io
 
